@@ -41,6 +41,9 @@ Each row in the `.jsonl` file follows this schema:
 - **Neural Research**: Optimizing model efficiency for industrial applications.
 - **Infrastructure**: Developing the physical and digital backbone for future AGI systems.
 
+## FULL DATASET LOCATION
+To see the full version of the dataset please visit: [HuggingFace DLTHA_REASONING_V1]([https://dltha.com](https://huggingface.co/datasets/Dltha-Labs/dltha_reasoning_v1.jsonl/blob/main/README.md?code=true))
+
 ## Contact & Collaboration
 For research collaborations or infrastructure inquiries, visit [dltha.com](https://dltha.com) or follow our updates on Hugging Face.
 
